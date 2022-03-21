@@ -18,3 +18,87 @@ library(gstudio)
 library(popgraph)
 library(tidyverse)
 ```
+
+
+
+
+This manuscript introduces several measures that can be used to quantify similarity in network structures commonly found in ecological and environmental research.
+
+With the goal of stimulating the development of new, and hopefully more effective, solutions we begin by considering some of the problems associated with topological comparisons.
+
+- Localized versus Global 
+
+- Search
+
+
+One of the main challenges to 
+
+
+## Methods
+
+The underlying generative functions that create connected topologies 
+
+
+
+
+```{r echo=FALSE}
+
+```
+
+
+
+
+
+
+
+
+## Localized similarities
+
+
+
+### Connection Similarity
+
+*Degree Correlation*
+
+
+### Neighborhood Similarity
+
+*Clique size Correlation* 
+
+
+
+## Global Similarities
+
+
+### Connectivity Similarity
+
+
+
+What is the distribution of connectivity values that produce a sturcture like this?
+
+
+
+### Structural Congruence
+
+Are the edges in $G_1$ connected to the same set of edges in $G_2$?
+
+
+
+
+
+### Distance Congruence
+
+Independent of how the network is configured, are the relative distances between nodes in the network correlated.
+
+
+
+
+
+
+## Example Human 
+
+
+
+
+
+
